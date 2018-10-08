@@ -1,0 +1,802 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <!--<color name="light_blue">#6593cb</color>-->
+
+    <color name="title_bar">#FF313434</color>
+    <color name="main_background_black">#FF1C1E1F</color>
+    <color name="main_foreground_black">#FF252728</color>
+
+    <color name="alpha_background_black">#8C252728</color>
+    <color name="main_background_white">#FFE6E6E6</color>
+    <color name="main_foreground_white">#FFF5F5F5</color>
+
+    <color name="blue">#FF44C494</color>
+    <color name="yellow">#ffffce00</color>
+
+    <color name="title_bar_txt_center">#FFFFFFFF</color>
+
+    <color name="new_title_bar">#FF303336</color>
+    <color name="M303336">#FF303336</color>
+    <!--<color name="bluee">#65FAD8</color>-->
+    <!--<color name="hui">#FFA3A3A3</color>-->
+    <!--<color name="huii">#FF828282</color>-->
+    <!--<color name="huih">#FF3C3C3C</color>-->
+    <!--<color name="me1">#FF00312D</color>-->
+    <!--<color name="me2_hui">#FFC8C8C8</color>-->
+    <!--<color name="me2_hei">#FF575757</color>-->
+    <!--<color name="me2_green">#FF44C494</color>-->
+    <!--<color name="me2_xian">#1F000000</color>-->
+    <!--<color name="me3_hui">#FFD8D8D8</color>-->
+    <!--<color name="setup_bai">#FFFFFFFF</color>-->
+    <!--<color name="button_me">#004E48</color>-->
+
+    <!--<color name="color_gray_eaeaea">#eaeaea</color>-->
+    <!--<color name="color_black_333333">#333333</color>-->
+    <color name="color_grey_999999">#999999</color>
+    <!--<color name="color_black_d9d9d9">#d9d9d9</color>-->
+    <color name="color_purple_bd6aff">#bd6aff</color>
+    <color name="GreyWhite_has_alpha">#66FAFAFA</color>
+    <color name="action_bar_tittle_color_555555">#555555</color>
+
+
+    <color name="red">#FF0000</color>
+
+    <color name="black">#000000</color>
+    <color name="help_black">#88000000</color>
+    <color name="orange">#FFA500</color>
+
+    <color name="white">#FFF</color>
+    <color name="MCC000000">#CC000000</color>
+    <color name="M001E1C">#FF001E1C</color>
+    <color name="M1E1E1E">#FF1E1E1E</color>
+    <color name="M002C30">#FF002C30</color>
+    <color name="M00312D">#FF00312D</color>
+    <color name="M004E48">#FF004E48</color>
+
+    <color name="M44C494">#FF44C494</color>
+    <color name="M373B3C">#FF373B3C</color>
+    <color name="M31987D">#FF31987D</color>
+    <color name="M182F30">#FF182F30</color>
+    <color name="M45E3C0">#45E3C0</color>
+    <color name="M44C594">#FF44C594</color>
+    <color name="M8844C594">#8844C594</color>
+    <color name="M1A44C594">#1A44C594</color>
+    <color name="M44C5AD">#FF44C5AD</color>
+    <color name="M848484">#848484</color>
+    <color name="Mc8c8c8">#c8c8c8</color>
+
+    <color name="M373A3A">#373A3A</color>
+
+    <color name="M00625b">#FF00625b</color>
+    <color name="MFF5050">#FFFF5050</color>
+    <color name="M61C9FF">#FF61C9FF</color>
+
+    <color name="MCC2E2E2E">#CC2E2E2E</color>
+
+    <color name="MF5252728">#F5252728</color>
+    <color name="M80252729">#80252729</color>
+
+    <color name="MFFCE00">#FFFFCE00</color>
+    <color name="M1AFFCE00">#1AFFCE00</color>
+    <color name="M000000">#FF000000</color>
+    <color name="M70000000">#70000000</color>
+    <color name="M80000000">#80000000</color>
+    <color name="M660E1218">#660E1218</color>
+    <color name="MFFFFFF">#ffffff</color>
+    <color name="M4CFFFFFF">#4CFFFFFF</color>
+    <color name="M00FFFFFF">#00FFFFFF</color>
+    <color name="MF4F4F4">#F4F4F4</color>
+
+    <color name="MC7C7CD">#FFC7C7CD</color>
+    <color name="M616467">#FF616467</color>
+    <color name="MEAEAEA">#FFEAEAEA</color>
+    <color name="ME6E6E6">#FFE6E6E6</color>
+    <!--<color name="MEEEEEE">#FFEEEEEE</color>-->
+    <!--<color name="M9B9B9B">#FF9B9B9B</color>-->
+    <color name="MD9D9D9">#FFD9D9D9</color>
+    <color name="ME6D9D9D9">#E6D9D9D9</color>
+    <!--<color name="MD6D6D6">#FFD6D6D6</color>-->
+    <color name="MA3A3A3">#FFA3A3A3</color>
+    <color name="M575A5B">#FF575A5B</color>
+    <color name="M2B2D2E">#FF2B2D2E</color>
+    <color name="M052B2D2E">#052B2D2E</color>
+    <color name="ME62B2D2E">#E62B2D2E</color>
+
+    <color name="M1E1F20">#FF1E1F20</color>
+    <color name="M565656">#FF565656</color>
+    <color name="MC12236">#FFC12236</color>
+    <color name="MFF8A00">#FFFF8A00</color>
+    <color name="M2E2E2E">#FF2E2E2E</color>
+    <color name="M4A4D4F">#FF4A4D4F</color>
+    <color name="M252525">#FF252525</color>
+    <color name="M252728">#FF252728</color>
+    <color name="M88252728">#88252728</color>
+    <!--<color name="MCA252728">#CA252728</color>-->
+    <color name="M202021">#FF202021</color>
+    <color name="M202B2A">#FF202B2A</color>
+    <color name="M202121">#FF202121</color>
+    <color name="M161717">#FF161717</color>
+    <color name="M203134">#FF203134</color>
+    <color name="M242728">#FF242728</color>
+    <!--<color name="M282828">#FF282828</color>-->
+    <!--<color name="M232F2E">#FF232F2E</color>-->
+    <color name="M222424">#FF222424</color>
+    <!--<color name="MA8222424">#A8222424</color>-->
+    <!--<color name="M9D222424">#9D222424</color>-->
+    <!--<color name="MB82B2D2E">#B82B2D2E</color>-->
+    <color name="MCC2B2D2E">#CC2B2D2E</color>
+    <color name="M242F33">#FF242F33</color>
+    <!--<color name="ME5222424">#E5222424</color>-->
+    <color name="M025A53">#FF025A53</color>
+    <color name="M131C19">#FF131C19</color>
+    <color name="M1A2F31">#FF1A2F31</color>
+    <color name="MCC252728">#CC252728</color>
+    <color name="M2D3D45">#FF2D3D45</color>
+    <color name="M323535">#FF323535</color>
+    <color name="M45484A">#FF45484A</color>
+    <!--<color name="M6A323535">#6A323535</color>-->
+    <color name="M800505">#FF800505</color>
+    <!--<color name="M808080">#FF808080</color>-->
+    <color name="MFB385E">#FFFB385E</color>
+    <color name="M969696">#FF969696</color>
+    <color name="M78968F">#FF78968F</color>
+    <color name="M6F6F6F">#FF6F6F6F</color>
+    <color name="M969999">#FF969999</color>
+    <color name="M828282">#FF828282</color>
+    <color name="M324249">#FF324249</color>
+    <!--<color name="M78968F">#FF78968F</color>-->
+    <color name="M575757">#FF575757</color>
+    <color name="M4A4A4A">#FF4A4A4A</color>
+    <color name="M7DBFE9">#FF7DBFE9</color>
+    <color name="MF5F5F5">#FFF5F5F5</color>
+
+    <!--<color name="M7f000000">#7f000000</color>-->
+    <color name="ME00000">#e0000000</color>
+    <color name="M8800000">#CC000000</color>
+    <!--<color name="M333333">#333333</color>-->
+    <color name="M8500000">#85000000</color>
+    <!--<color name="MA5B5B4">#FFA5B5B4</color>-->
+    <color name="M3C3C3C">#FF3C3C3C</color>
+    <color name="M65FAD8">#FF65FAD8</color>
+    <color name="M45E3BF">#FF45E3BF</color>
+    <color name="M434447">#FF434447</color>
+    <color name="MCC434447">#CC434447</color>
+    <color name="M66434447">#66434447</color>
+    <color name="M00625A">#FF00625A</color>
+    <color name="M28605B">#FF28605B</color>
+
+    <color name="MB4B5A5">#B4B5A5</color>
+
+    <color name="MTAOBAO">#FFFA5B00</color>
+    <color name="MZIYIN">#FFDC0000</color>
+    <color name="MQITA">#FFC8C8C8</color>
+
+    <!--<color name="M4D000000">#4D000000</color>-->
+    <!--<color name="M80000000">#80000000</color>-->
+    <color name="MBF000000">#BF000000</color>
+    <color name="MBF0000">#BF0000</color>
+    <color name="black30">#B2000000</color>
+
+    <!--<color name="MB9FFFFFF">#B9FFFFFF</color>-->
+    <!--<color name="ME0FFFFFF">#E0FFFFFF</color>-->
+    <!--<color name="MF0FFFFFF">#F0FFFFFF</color>-->
+    <color name="MC8C8C8">#FFC8C8C8</color>
+    <color name="M1D2826">#FF1D2826</color>
+    <color name="M1D2422">#FF1D2422</color>
+    <color name="M6C6B71">#FF6C6B71</color>
+    <color name="M979797">#FF979797</color>
+    <!--<color name="M319872">#FF319872</color>-->
+    <color name="MD8D8D8">#FFD8D8D8</color>
+    <color name="M32D8D8D8">#32D8D8D8</color>
+    <!--<color name="M8E8E93">#FF8E8E93</color>-->
+    <color name="M83CFBD">#FF83CFBD</color>
+    <!--&lt;!&ndash;白色 &ndash;&gt;-->
+    <!--<color name="ivory">#fffff0</color>-->
+    <!--&lt;!&ndash;象牙色 &ndash;&gt;-->
+    <!--<color name="lightyellow">#ffffe0</color>-->
+    <!--&lt;!&ndash;黄色 &ndash;&gt;-->
+    <!--<color name="snow">#fffafa</color>-->
+    <!--&lt;!&ndash;雪白色 &ndash;&gt;-->
+    <!--<color name="floralwhite">#fffaf0</color>-->
+    <!--&lt;!&ndash;花白色 &ndash;&gt;-->
+    <!--<color name="lemonchiffon">#fffacd</color>-->
+    <!--&lt;!&ndash;柠檬绸色 &ndash;&gt;-->
+    <!--<color name="cornsilk">#fff8dc</color>-->
+    <!--&lt;!&ndash;米绸色 &ndash;&gt;-->
+    <!--<color name="seaShell">#fff5ee</color>-->
+    <!--&lt;!&ndash;海贝色 &ndash;&gt;-->
+    <!--<color name="lavenderblush">#fff0f5</color>-->
+    <!--&lt;!&ndash;淡紫红 &ndash;&gt;-->
+    <!--<color name="papayawhip">#ffefd5</color>-->
+    <!--&lt;!&ndash;番木色 &ndash;&gt;-->
+    <!--<color name="blanchedalmond">#ffebcd</color>-->
+    <!--&lt;!&ndash;白杏色 &ndash;&gt;-->
+    <!--<color name="mistyrose">#ffe4e1</color>-->
+    <!--&lt;!&ndash;浅玫瑰色 &ndash;&gt;-->
+    <!--<color name="bisque">#ffe4c4</color>-->
+    <!--&lt;!&ndash;桔黄色 &ndash;&gt;-->
+    <!--<color name="moccasin">#ffe4b5</color>-->
+    <!--&lt;!&ndash;鹿皮色 &ndash;&gt;-->
+    <!--<color name="navajowhite">#ffdead</color>-->
+    <!--&lt;!&ndash;纳瓦白 &ndash;&gt;-->
+    <!--<color name="peachpuff">#ffdab9</color>-->
+    <!--&lt;!&ndash;桃色 &ndash;&gt;-->
+    <!--<color name="gold">#ffd700</color>-->
+    <!--&lt;!&ndash;金色 &ndash;&gt;-->
+    <!--<color name="pink">#ffc0cb</color>-->
+    <!--&lt;!&ndash;粉红色 &ndash;&gt;-->
+    <!--<color name="lightpink">#ffb6c1</color>-->
+    <!--&lt;!&ndash;亮粉红色 &ndash;&gt;-->
+    <!--<color name="lightsalmon">#ffa07a</color>-->
+    <!--&lt;!&ndash;亮肉色 &ndash;&gt;-->
+    <!--<color name="darkorange">#ff8c00</color>-->
+    <!--&lt;!&ndash;暗桔黄色 &ndash;&gt;-->
+    <!--<color name="coral">#ff7f50</color>-->
+    <!--&lt;!&ndash;珊瑚色 &ndash;&gt;-->
+    <!--<color name="hotpink">#ff69b4</color>-->
+    <!--&lt;!&ndash;热粉红色 &ndash;&gt;-->
+    <!--<color name="tomato">#ff6347</color>-->
+    <!--&lt;!&ndash;西红柿色 &ndash;&gt;-->
+    <!--<color name="orangered">#ff4500</color>-->
+    <!--&lt;!&ndash;红橙色 &ndash;&gt;-->
+    <!--<color name="deeppink">#ff1493</color>-->
+    <!--&lt;!&ndash;深粉红色 &ndash;&gt;-->
+    <!--<color name="fuchsia">#ff00ff</color>-->
+    <!--&lt;!&ndash;紫红色 &ndash;&gt;-->
+    <!--<color name="magenta">#ff00ff</color>-->
+    <!--&lt;!&ndash;红紫色 &ndash;&gt;-->
+    <!--<color name="oldlace">#fdf5e6</color>-->
+    <!--&lt;!&ndash;老花色 &ndash;&gt;-->
+    <!--<color name="lightgoldenrodyellow">#fafad2</color>-->
+    <!--&lt;!&ndash;亮金黄色 &ndash;&gt;-->
+    <!--<color name="linen">#faf0e6</color>-->
+    <!--&lt;!&ndash;亚麻色 &ndash;&gt;-->
+    <!--<color name="antiquewhite">#faebd7</color>-->
+    <!--&lt;!&ndash;古董白 &ndash;&gt;-->
+    <!--<color name="salmon">#fa8072</color>-->
+    <!--&lt;!&ndash;鲜肉色 &ndash;&gt;-->
+    <!--<color name="ghostwhite">#f8f8ff</color>-->
+    <!--&lt;!&ndash;幽灵白 &ndash;&gt;-->
+    <!--<color name="mintcream">#f5fffa</color>-->
+    <!--&lt;!&ndash;薄荷色 &ndash;&gt;-->
+    <!--<color name="whitesmoke">#f5f5f5</color>-->
+    <!--&lt;!&ndash;烟白色 &ndash;&gt;-->
+    <!--<color name="beige">#f5f5dc</color>-->
+    <!--&lt;!&ndash;米色 &ndash;&gt;-->
+    <!--<color name="wheat">#f5deb3</color>-->
+    <!--&lt;!&ndash;浅黄色 &ndash;&gt;-->
+    <!--<color name="sandybrown">#f4a460</color>-->
+    <!--&lt;!&ndash;沙褐色 &ndash;&gt;-->
+    <!--<color name="azure">#f0ffff</color>-->
+    <!--&lt;!&ndash;天蓝色 &ndash;&gt;-->
+    <!--<color name="honeydew">#f0fff0</color>-->
+    <!--&lt;!&ndash;蜜色 &ndash;&gt;-->
+    <!--<color name="aliceblue">#f0f8ff</color>-->
+    <!--&lt;!&ndash;艾利斯兰 &ndash;&gt;-->
+    <!--<color name="khaki">#f0e68c</color>-->
+    <!--&lt;!&ndash;黄褐色 &ndash;&gt;-->
+    <!--<color name="lightcoral">#f08080</color>-->
+    <!--&lt;!&ndash;亮珊瑚色 &ndash;&gt;-->
+    <!--<color name="palegoldenrod">#eee8aa</color>-->
+    <!--&lt;!&ndash;苍麒麟色 &ndash;&gt;-->
+    <!--<color name="violet">#ee82ee</color>-->
+    <!--&lt;!&ndash;紫罗兰色 &ndash;&gt;-->
+    <!--<color name="darksalmon">#e9967a</color>-->
+    <!--&lt;!&ndash;暗肉色 &ndash;&gt;-->
+    <!--<color name="lavender">#e6e6fa</color>-->
+    <!--&lt;!&ndash;淡紫色 &ndash;&gt;-->
+    <!--<color name="lightcyan">#e0ffff</color>-->
+    <!--&lt;!&ndash;亮青色 &ndash;&gt;-->
+    <!--<color name="burlywood">#deb887</color>-->
+    <!--&lt;!&ndash;实木色 &ndash;&gt;-->
+    <!--<color name="plum">#dda0dd</color>-->
+    <!--&lt;!&ndash;洋李色 &ndash;&gt;-->
+    <!--<color name="gainsboro">#dcdcdc</color>-->
+    <!--&lt;!&ndash;淡灰色 &ndash;&gt;-->
+    <!--<color name="crimson">#dc143c</color>-->
+    <!--&lt;!&ndash;暗深红色 &ndash;&gt;-->
+    <!--<color name="palevioletred">#db7093</color>-->
+    <!--&lt;!&ndash;苍紫罗兰色 &ndash;&gt;-->
+    <!--<color name="goldenrod">#daa520</color>-->
+    <!--&lt;!&ndash;金麒麟色 &ndash;&gt;-->
+    <!--<color name="orchid">#da70d6</color>-->
+    <!--&lt;!&ndash;淡紫色 &ndash;&gt;-->
+    <!--<color name="thistle">#d8bfd8</color>-->
+    <!--&lt;!&ndash;蓟色 &ndash;&gt;-->
+    <!--<color name="lightgray">#d3d3d3</color>-->
+    <!--&lt;!&ndash;亮灰色 &ndash;&gt;-->
+    <!--<color name="lightgrey">#d3d3d3</color>-->
+    <!--&lt;!&ndash;亮灰色 &ndash;&gt;-->
+    <!--<color name="tan">#d2b48c</color>-->
+    <!--&lt;!&ndash;茶色 &ndash;&gt;-->
+    <!--<color name="chocolate">#d2691e</color>-->
+    <!--&lt;!&ndash;巧可力色 &ndash;&gt;-->
+    <!--<color name="peru">#cd853f</color>-->
+    <!--&lt;!&ndash;秘鲁色 &ndash;&gt;-->
+    <!--<color name="indianred">#cd5c5c</color>-->
+    <!--&lt;!&ndash;印第安红 &ndash;&gt;-->
+    <!--<color name="mediumvioletred">#c71585</color>-->
+    <!--&lt;!&ndash;中紫罗兰色 &ndash;&gt;-->
+    <!--<color name="silver">#c0c0c0</color>-->
+    <!--&lt;!&ndash;银色 &ndash;&gt;-->
+    <!--<color name="darkkhaki">#bdb76b</color>-->
+    <!--&lt;!&ndash;暗黄褐色 &ndash;&gt;-->
+    <!--<color name="rosybrown">#bc8f8f</color>-->
+    <!--&lt;!&ndash;褐玫瑰红 &ndash;&gt;-->
+    <!--<color name="mediumorchid">#ba55d3</color>-->
+    <!--&lt;!&ndash;中粉紫色 &ndash;&gt;-->
+    <!--<color name="darkgoldenrod">#b8860b</color>-->
+    <!--&lt;!&ndash;暗金黄色 &ndash;&gt;-->
+    <!--<color name="firebrick">#b22222</color>-->
+    <!--&lt;!&ndash;火砖色 &ndash;&gt;-->
+    <!--<color name="powderblue">#b0e0e6</color>-->
+    <!--&lt;!&ndash;粉蓝色 &ndash;&gt;-->
+    <!--<color name="lightsteelblue">#b0c4de</color>-->
+    <!--&lt;!&ndash;亮钢兰色 &ndash;&gt;-->
+    <!--<color name="paleturquoise">#afeeee</color>-->
+    <!--&lt;!&ndash;苍宝石绿 &ndash;&gt;-->
+    <!--<color name="greenyellow">#adff2f</color>-->
+    <!--&lt;!&ndash;黄绿色 &ndash;&gt;-->
+    <!--<color name="lightblue">#add8e6</color>-->
+    <!--&lt;!&ndash;亮蓝色 &ndash;&gt;-->
+    <color name="darkgray">#a9a9a9</color>
+    <!--&lt;!&ndash;暗灰色 &ndash;&gt;-->
+    <!--<color name="darkgrey">#a9a9a9</color>-->
+    <!--&lt;!&ndash;暗灰色 &ndash;&gt;-->
+    <!--<color name="brown">#a52a2a</color>-->
+    <!--&lt;!&ndash;褐色 &ndash;&gt;-->
+    <!--<color name="sienna">#a0522d</color>-->
+    <!--&lt;!&ndash;赭色 &ndash;&gt;-->
+    <!--<color name="darkorchid">#9932cc</color>-->
+    <!--&lt;!&ndash;暗紫色 &ndash;&gt;-->
+    <!--<color name="palegreen">#98fb98</color>-->
+    <!--&lt;!&ndash;苍绿色 &ndash;&gt;-->
+    <!--<color name="darkviolet">#9400d3</color>-->
+    <!--&lt;!&ndash;暗紫罗兰色 &ndash;&gt;-->
+    <!--<color name="mediumpurple">#9370db</color>-->
+    <!--&lt;!&ndash;中紫色 &ndash;&gt;-->
+    <!--<color name="lightgreen">#90ee90</color>-->
+    <!--&lt;!&ndash;亮绿色 &ndash;&gt;-->
+    <!--<color name="darkseagreen">#8fbc8f</color>-->
+    <!--暗海兰色 -->
+
+
+    <!--<color name="saddlebrown">#8b4513</color>-->
+
+    <!--重褐色 -->
+
+
+    <!--<color name="darkmagenta">#8b008b</color>-->
+
+    <!--暗洋红 -->
+
+
+    <!--<color name="darkred">#8b0000</color>-->
+
+    <!--暗红色 -->
+
+
+    <!--<color name="blueviolet">#8a2be2</color>-->
+
+    <!--紫罗兰蓝色 -->
+
+
+    <!--<color name="lightskyblue">#87cefa</color>-->
+
+    <!--亮天蓝色 -->
+
+
+    <!--<color name="skyblue">#87ceeb</color>-->
+
+    <!--天蓝色 -->
+
+
+    <!--<color name="gray">#808080</color>-->
+
+    <!--灰色 -->
+
+
+    <!--<color name="grey">#808080</color>-->
+
+    <!--灰色 -->
+
+
+    <!--<color name="olive">#808000</color>-->
+
+    <!--橄榄色 -->
+
+
+    <!--<color name="purple">#800080</color>-->
+
+    <!--紫色 -->
+
+
+    <!--<color name="maroon">#800000</color>-->
+
+    <!--粟色 -->
+
+
+    <!--<color name="aquamarine">#7fffd4</color>-->
+
+    <!--碧绿色 -->
+
+
+    <!--<color name="chartreuse">#7fff00</color>-->
+
+    <!--黄绿色 -->
+
+
+    <!--<color name="lawngreen">#7cfc00</color>-->
+
+    <!--草绿色 -->
+
+
+    <!--<color name="mediumslateblue">#7b68ee</color>-->
+
+    <!--中暗蓝色 -->
+
+
+    <!--<color name="lightslategray">#778899</color>-->
+
+    <!--亮蓝灰 -->
+
+
+    <!--<color name="lightslategrey">#778899</color>-->
+
+    <!--亮蓝灰 -->
+
+
+    <!--<color name="slategray">#708090</color>-->
+
+    <!--灰石色 -->
+
+
+    <!--<color name="slategrey">#708090</color>-->
+
+    <!--灰石色 -->
+
+
+    <!--<color name="olivedrab">#6b8e23</color>-->
+
+    <!--深绿褐色 -->
+
+
+    <!--<color name="slateblue">#6a5acd</color>-->
+
+    <!--石蓝色 -->
+
+
+    <!--<color name="dimgray">#696969</color>-->
+
+    <!--暗灰色 -->
+
+
+    <!--<color name="dimgrey">#696969</color>-->
+
+    <!--暗灰色 -->
+
+
+    <!--<color name="mediumaquamarine">#66cdaa</color>-->
+
+    <!--中绿色 -->
+
+
+    <!--<color name="cornflowerblue">#6495ed</color>-->
+
+    <!--菊兰色 -->
+
+
+    <!--<color name="cadetblue">#5f9ea0</color>-->
+
+    <!--军兰色 -->
+
+
+    <!--<color name="darkolivegreen">#556b2f</color>-->
+
+    <!--暗橄榄绿 -->
+
+
+    <!--<color name="indigo">#4b0082</color>-->
+
+    <!--靛青色 -->
+
+
+    <!--<color name="mediumturquoise">#48d1cc</color>-->
+
+    <!--中绿宝石 -->
+
+
+    <!--<color name="darkslateblue">#483d8b</color>-->
+
+    <!--暗灰蓝色 -->
+
+
+    <!--<color name="steelblue">#4682b4</color>-->
+
+    <!--钢兰色 -->
+
+
+    <!--<color name="royalblue">#4169e1</color>-->
+
+    <!--皇家蓝 -->
+
+
+    <!--<color name="turquoise">#40e0d0</color>-->
+
+    <!--青绿色 -->
+
+
+    <!--<color name="mediumseagreen">#3cb371</color>-->
+
+    <!--中海蓝 -->
+
+
+    <!--<color name="limegreen">#32cd32</color>-->
+
+    <!--橙绿色 -->
+
+
+    <!--<color name="darkslategray">#2f4f4f</color>-->
+
+    <!--暗瓦灰色 -->
+
+
+    <!--<color name="darkslategrey">#2f4f4f</color>-->
+
+    <!--暗瓦灰色 -->
+
+
+    <!--<color name="seagreen">#2e8b57</color>-->
+
+    <!--海绿色 -->
+
+
+    <!--<color name="forestgreen">#228b22</color>-->
+
+    <!--森林绿 -->
+
+
+    <!--<color name="lightseagreen">#20b2aa</color>-->
+
+    <!--亮海蓝色 -->
+
+
+    <!--<color name="dodgerblue">#1e90ff</color>-->
+
+    <!--闪兰色 -->
+
+
+    <!--<color name="midnightblue">#191970</color>-->
+
+    <!--中灰兰色 -->
+
+
+    <!--<color name="aqua">#00ffff</color>-->
+
+    <!--浅绿色 -->
+
+
+    <!--青色 -->
+
+
+    <!--<color name="springgreen">#00ff7f</color>-->
+
+    <!--春绿色 -->
+
+
+    <!--<color name="lime">#00ff00</color>-->
+
+    <!--酸橙色 -->
+
+
+    <!--<color name="mediumspringgreen">#00fa9a</color>-->
+
+    <!--中春绿色 -->
+
+
+    <!--<color name="darkturquoise">#00ced1</color>-->
+
+    <!--暗宝石绿 -->
+
+
+    <!--<color name="deepskyblue">#00bfff</color>-->
+
+    <!--深天蓝色 -->
+
+
+    <!--<color name="darkcyan">#008b8b</color>-->
+
+    <!--暗青色 -->
+
+
+    <!--<color name="teal">#008080</color>-->
+
+    <!--水鸭色 -->
+
+
+    <!--绿色 -->
+
+
+    <!--<color name="darkgreen">#006400</color>-->
+
+    <!--暗绿色 -->
+
+
+    <!--蓝色 -->
+
+
+    <!--<color name="mediumblue">#0000cd</color>-->
+
+    <!--中兰色 -->
+
+
+    <!--<color name="darkblue">#00008b</color>-->
+
+    <!--暗蓝色 -->
+
+
+    <!--<color name="navy">#000080</color>-->
+
+    <!--海军色 -->
+
+
+    <!--黑色 -->
+
+
+    <color name="transparent">#0000</color>
+
+    <!--<color name="transparent2">#8000</color>-->
+
+    <!-- 透明 -->
+    <!--<color name="transparen3">#9000</color>-->
+
+    <!-- 上传图片添加的颜色 -->
+
+
+    <!--<color name="none_color">#00000000</color>-->
+
+    <!--<color name="plugin_camera_black">#000000</color>-->
+
+    <!--<color name="albumback">#E1E0DE</color>-->
+
+    <color name="style_red">#ff4c41</color>
+
+    <!--<color name="style_divider_color">#C9C7CD</color>-->
+    <!--<color name="search_layover_bg">#50000000</color>-->
+    <!--<color name="A252728">#FF252728</color>-->
+    <color name="head_portrait_mail_color_male">#FF65FAD8</color>
+    <color name="head_portrait_mail_color_female">#FFFFCE00</color>
+    <color name="rally_not_join_bg">#DD4A4A4A</color>
+    <!--<color name="background">#F7F4F0</color>-->
+
+    <!--<color name="title_color">#333333</color>-->
+    <color name="kprogresshud_default_color">#E54A4D4F</color>
+    <color name="kprogresshud_grey_color">#449E9E9E</color>
+
+    <!--<color name="f850_default_blue">#0079ff</color>-->
+
+    <!--<color name="header_toast_bg">#ccebfc</color>-->
+    <!--<color name="header_toast">#024ca1</color>-->
+    <!--<color name="header_toast_line">#abdaf4</color>-->
+    <!--<color name="offline_down_title">#909090</color>-->
+    <!--<color name="offline_head_font">#FFFFFF</color>-->
+    <color name="gary">#898989</color>
+    <!--<color name="taobao_black">#333333</color>-->
+    <color name="offline_down_size">#777777</color>
+    <!--<color name="gray_lite">#c5c5c5</color>-->
+    <!--<color name="progress_background">#ededed</color>-->
+    <!--<color name="itemlist">#f4f4f4</color>-->
+    <!--<color name="act_background">#efefef</color>-->
+    <!--<color name="phone_bg">#f6f6f6</color>-->
+    <!--<color name="MBFFFFCE00">#FFFFCE00</color>-->
+    <color name="CCA3A3A3">#CCA3A3A3</color>
+    <color name="CCFFFFFF">#CCFFFFFF</color>
+
+    <!--<color name="contents_text">#ff000000</color>-->
+    <!--<color name="encode_view">#ffffffff</color>-->
+    <color name="possible_result_points">#c0ffbd21</color> <!-- Android standard ICS color -->
+    <!--<color name="result_minor_text">#ffc0c0c0</color>-->
+    <!--<color name="result_points">#c099cc00</color> &lt;!&ndash; Android standard ICS color &ndash;&gt;-->
+    <!--<color name="result_text">#ffffffff</color>-->
+    <color name="result_view">#b0000000</color>
+    <color name="status_text">#ffffffff</color>
+    <color name="viewfinder_laser">#ffcc0000</color> <!-- Android standard ICS color -->
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="M2C2E2F">#FF2C2E2F</color>
+    <color name="E54A4D4F">#E54A4D4F</color>
+    <color name="M2D2F30">#FF2D2F30</color>
+    <color name="M2C8665">#FF2C8665</color>
+    <color name="M99252728">#99252728</color>
+    <color name="MD9DDDDDD">#D9DDDDDD</color>
+    <color name="MCC00FF">#FFCC00FF</color>
+    <color name="M073A3D">#FF073A3D</color>
+    <color name="M4DFFFFFF">#4DFFFFFF</color>
+    <color name="M1B1B1B">#FF1B1B1B</color>
+    <color name="MFF6B00">#FFFF6B00</color>
+    <color name="MFF6A03">#FFFF6A03</color>
+    <color name="M19000000">#19000000</color>
+    <color name="M2F3A4E">#FF2F3A4E</color>
+    <color name="M28FFFFFF">#28FFFFFF</color>
+    <color name="MFF6161">#FFFF6161</color>
+    <color name="M2C2D2E">#FF2C2D2E</color>
+    <color name="M2D5AB0">#FF2D5AB0</color>
+    <color name="M276455">#FF276455</color>
+    <color name="ME37B00">#FFE37B00</color>
+    <color name="MC63131">#FFC63131</color>
+    <color name="MEBEBEB">#EBEBEB</color>
+    <color name="MB3FFFFFF">#B3FFFFFF</color>
+
+
+    <color name="MC1223A">#C1223A</color>
+    <color name="M3DB084">#FF3DB084</color>
+    <color name="M8F8E94">#FF8F8E94</color>
+    <color name="ME67504">#FFE67504</color>
+    <color name="M00625B">#FF00625B</color>
+    <color name="M3971CC">#FF3971CC</color>
+    <color name="M33FFFF">#33FFFFFF</color>
+    <color name="M7B7A7A">#FF7B7A7A</color>
+
+
+    <color name="M858B8F">#FF858B8F</color>
+    <color name="M8A9199">#8A9199</color>
+
+    <color name="M66858B8F">#66858B8F</color>
+
+    <color name="M2C2E30">#2C2E30</color>
+    <color name="M313434">#FF313434</color>
+    <color name="M666666">#FF666666</color>
+    <color name="MDCDCDC">#FFDCDCDC</color>
+    <color name="ME34545">#FFE34545</color>
+    <color name="MF0F0F0">#FFF0F0F0</color>
+    <color name="M8AB85F">#FF8AB85F</color>
+    <color name="M009277">#FF009277</color>
+    <color name="M005E54">#FF005E54</color>
+
+    <color name="M4A4D4A">#FF4A4D4A</color>
+    <color name="MB30000">#B3000000</color>
+    <color name="MF1403C">#FFF1403C</color>
+    <color name="M505050">#FF505050</color>
+    <color name="M1C1E1F">#FF1C1E1F</color>
+
+    <color name="MBF505050">#BF505050</color>
+    <color name="M0D000000">#0D000000</color>
+
+    <color name="MFF787878">#FF787878</color>
+
+    <color name="MFF252831">#FF252831</color>
+
+    <color name="divider_color">#c9c9c9</color>
+
+
+    <color name="M1A44C494">#1A44C494</color>
+    <color name="MD1F8F8F8">#D1F8F8F8</color>
+    <color name="MFF3F3F3F">#FF3F3F3F</color>
+    <color name="MFF007AFF">#FF007AFF</color>
+    <color name="MFF818181">#FF818181</color>
+    <color name="MFFE4E5E5">#FFE4E5E5</color>
+    <color name="MFF6C6C6C">#FF6C6C6C</color>
+    <color name="MFF0C0D0E">#FF0C0D0E</color>
+    <color name="MFF393B00">#FF393B00</color>
+    <color name="MFF87898D">#FF87898D</color>
+    <color name="MFFE92000">#FFE92000</color>
+    <color name="MFFF9F9F9">#FFF9F9F9</color>
+    <color name="MFFF0F1F2">#FFF0F1F2</color>
+    <color name="MFF4D4D4D">#FF4D4D4D</color>
+
+
+    <!-- UGC*******************************************************************************************************************************-->
+    <color name="record_progress_bg">#66000000</color> <!-- 40%不透明度 -->
+    <color name="record_progress">#00f5ac</color>
+    <color name="record_progress_pending">#10acc0</color>
+
+    <color name="background_gray1">#EBEBEB</color>
+
+    <color name="c8">#FFFFFF</color>
+
+    <!-- 裁剪范围颜色 -->
+    <color name="colorAccentTransparent30">#4d0accac</color>
+</resources>
